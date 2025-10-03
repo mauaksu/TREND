@@ -1,2 +1,3 @@
 # TREND
 TREND FILES SHARE
+Password: TrendMicroBAS
